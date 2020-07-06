@@ -1,7 +1,7 @@
 # Jogo-feito-em-Unity
 Jogo Básico feito em Unity
 
-##Olá, seja Bem Vinda(o) ao meu repositório.
+## Olá, seja Bem Vinda(o) ao meu repositório.
 
 Este repositório contém um jogo feito em Unity, basicamente é um jogo 3D que contém um personagem controlável em 1° Pessoa, que tem que subir vários blocos, ao chegar no último bloco, você ganha, mas tome cuidado, pois a qualquer momento você pode cair e ter que começar tudo de novo.
 
